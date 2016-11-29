@@ -4,6 +4,8 @@
 # Ordenados por orden alfabético
 # Formato: Apellidos, Nombre
 
+Chávez García, Ramón
 Juan, Jorge
 Solis Franco, Francisco Javier
+Reina Martín, Ricardo
 Torrecilla Fuentes, José Antonio
